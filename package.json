@@ -1,0 +1,24 @@
+{
+  "name": "talktome",
+  "version": "1.0.0",
+  "description": "Experiments with Speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aStewartDesign/TalkToMe.git"
+  },
+  "author": "Andrew Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aStewartDesign/TalkToMe/issues"
+  },
+  "homepage": "https://github.com/aStewartDesign/TalkToMe#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}

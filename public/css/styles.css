@@ -1,0 +1,16 @@
+.dialog {
+    margin: 16px 0;
+}
+.dialog__bubble {
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.dialog__bubble--client {
+    margin-right: 32px;
+}
+.dialog__bubble--bot {
+    margin-left: 32px;
+    border: 1px solid #4c4;
+}
